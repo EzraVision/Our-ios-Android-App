@@ -1,1 +1,8 @@
-# Our-ios-Android-App
+- Our ios, Android App
+- This is copyright code 
+- so you can only use this as a beta tester
+- and cannot use this for anything other than providing feedback
+- as of now there is no code so you can help us if you want 
+- We are trying to make an android app that will allow you to access our
+- github, website, and buy our memberships so if you feel up to the job please
+- help us. 
